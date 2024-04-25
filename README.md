@@ -1,3 +1,12 @@
+<h1 align="center">Repository Relocation Notice</h1>
+
+This repository has been relocated to the [deriv-com](https://github.com/deriv-com) organization. Please access it at the following URL: [eslint-plugin-localize-usage](https://github.com/deriv-com/eslint-plugin-localize-usage)
+
+Thank you!
+
+---
+
+
 # @deriv/eslint-plugin-localize-usage
 
 Eslint rules for enforcing the correct usage of `localize` function and `Localize` component in the app
